@@ -1,4 +1,4 @@
-# Create aand mint token
+# Create and mint token
 
 In this Solidity program  we create and manage a token by creating a smart contract. In the contract, we use ERC20 to add functionalities like total supply, balances, transferring tokens and many more.
 
